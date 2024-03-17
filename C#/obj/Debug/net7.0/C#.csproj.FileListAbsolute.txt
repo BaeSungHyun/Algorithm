@@ -1,0 +1,15 @@
+C:\Algorithm\C#\bin\Debug\net7.0\C#.exe
+C:\Algorithm\C#\bin\Debug\net7.0\C#.deps.json
+C:\Algorithm\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\Algorithm\C#\bin\Debug\net7.0\C#.dll
+C:\Algorithm\C#\bin\Debug\net7.0\C#.pdb
+C:\Algorithm\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\Algorithm\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algorithm\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Algorithm\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Algorithm\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\Algorithm\C#\obj\Debug\net7.0\C#.dll
+C:\Algorithm\C#\obj\Debug\net7.0\refint\C#.dll
+C:\Algorithm\C#\obj\Debug\net7.0\C#.pdb
+C:\Algorithm\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\Algorithm\C#\obj\Debug\net7.0\ref\C#.dll

@@ -1,0 +1,1 @@
+ g++ -W,--stack,4000000 -o Hashing1.exe Hashing1.cpp

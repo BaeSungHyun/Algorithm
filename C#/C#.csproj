@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>C_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="2x2MatrixRecursiveIterativeSearch.cs" />
+    <Compile Remove="BasicHTTPGet.cs" />
+    <Compile Remove="BasicHTTPServer.cs" />
+    <Compile Remove="BFS.cs" />
+    <Compile Remove="ChessBoardAlgorithm.cs" />
+    <Compile Remove="DivideConquer_ColorPaper.cs" />
+    <Compile Remove="DualPriorityQueue.cs" />
+    <Compile Remove="FloydAllShortestPaths.cs" />
+    <Compile Remove="GraphDSLR.cs" />
+    <Compile Remove="GreedyMaxMeetings.cs" />
+    <Compile Remove="HashingUnheardUnseen.cs" />
+    <Compile Remove="StringExplosion.cs" />
+  </ItemGroup>
+
+</Project>
